@@ -1,0 +1,289 @@
+{
+  "account": [
+    {
+      "id": "123456",
+      "fullname": "Seller One",
+      "email": "s1@gmail.com",
+      "password": "123",
+      "type": "SELLER"
+    },
+    {
+      "id": "8888888",
+      "fullname": "User One",
+      "email": "u1@gmail.com",
+      "password": "123",
+      "type": "USER"
+    },
+    {
+      "id": "3209",
+      "fullname": "Jerry",
+      "email": "abc@gmail.com",
+      "password": "abc123",
+      "type": "USER"
+    },
+    {
+      "id": "a0c7",
+      "fullname": "Viji",
+      "email": "asd@abc.com",
+      "password": "123",
+      "type": "USER"
+    }
+  ],
+  "products": [
+    {
+      "id": "0bb8",
+      "Name": "Apple ",
+      "Price": "200",
+      "Image": "https://thumbs.dreamstime.com/b/red-apple-isolated-clipping-path-19130134.jpg",
+      "Details": "jhdajh jadj jasdj jhadj"
+    },
+    {
+      "id": "75ce",
+      "Name": "Mango",
+      "Price": "150",
+      "Image": "https://t4.ftcdn.net/jpg/05/41/05/85/360_F_541058586_BI3eaJvZO132lNExAwbARYSg7FfHknWz.jpg",
+      "Details": "jfebj jfj jhsfa jhfaj jhfa "
+    },
+    {
+      "id": "0354",
+      "Name": "water bottel",
+      "Price": "250",
+      "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFjSXM0UZ_nS49GuzDPnIcDz8hT4FJ90zhEw&s",
+      "Details": "jhujfhuv  w8u8o osii"
+    },
+    {
+      "id": "e6d6",
+      "Name": "Kiwi",
+      "Price": "600",
+      "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0ldxcNoF34BRrO8zaBM7S4mcjRIXV3VF0gw&s",
+      "Details": "bbdcvhg nbsdc nmbds jbdsj"
+    },
+    {
+      "id": "f034",
+      "Name": "onion",
+      "Price": "50",
+      "Image": "https://5.imimg.com/data5/ANDROID/Default/2021/3/GP/VO/XV/125443919/screenshot-20210320-183611-jpg-500x500.jpg",
+      "Details": "it is a good onion"
+    },
+    {
+      "id": "b394",
+      "Name": "Brinjal",
+      "Price": "55",
+      "Image": "https://thumbs.dreamstime.com/b/closeup-background-brooms-made-grass-baguio-philippines-colourful-background-119703333.jpg?w=768",
+      "Details": "hfdhd jhkdgkj"
+    },
+    {
+      "id": "e68e",
+      "Name": "watermelon",
+      "Price": "150",
+      "Image": "https://thumbs.dreamstime.com/b/whole-watermelon-slice-white-background-as-package-design-element-45127224.jpg?w=768",
+      "Details": "dhhgs fjjdhfjjkd"
+    },
+    {
+      "id": "927b",
+      "Name": "Orange",
+      "Price": "350",
+      "Image": "https://thumbs.dreamstime.com/b/mandarin-orange-23753206.jpg?w=768",
+      "Details": "vvjhgg ghhjkhk"
+    },
+    {
+      "id": "9db9",
+      "Name": "Grapes",
+      "Price": "250",
+      "Image": "https://thumbs.dreamstime.com/b/grapes-22722160.jpg?w=768",
+      "Details": "fkjdgj gjlfg"
+    },
+    {
+      "id": "d975",
+      "Name": "mobile",
+      "Price": "30000",
+      "Image": "https://thumbs.dreamstime.com/b/iphone-4-19770938.jpg?w=768",
+      "Details": "smartphone"
+    }
+  ],
+  "cart": [],
+  "order": [
+    {
+      "id": "1a06",
+      "customer": "abc",
+      "mobile": "11111",
+      "address": "kdkfjk dfdjkdj dldkldkkl",
+      "userid": "8888888",
+      "orderitem": [
+        {
+          "id": "f034",
+          "Name": "onion",
+          "Price": "50",
+          "Image": "https://5.imimg.com/data5/ANDROID/Default/2021/3/GP/VO/XV/125443919/screenshot-20210320-183611-jpg-500x500.jpg",
+          "Details": "it is a good onion",
+          "qty": 1
+        },
+        {
+          "id": "e68e",
+          "Name": "watermelon",
+          "Price": "150",
+          "Image": "https://thumbs.dreamstime.com/b/whole-watermelon-slice-white-background-as-package-design-element-45127224.jpg?w=768",
+          "Details": "dhhgs fjjdhfjjkd",
+          "qty": 1
+        },
+        {
+          "id": "9db9",
+          "Name": "Grapes",
+          "Price": "250",
+          "Image": "https://thumbs.dreamstime.com/b/grapes-22722160.jpg?w=768",
+          "Details": "fkjdgj gjlfg",
+          "qty": 1
+        },
+        {
+          "id": "e6d6",
+          "Name": "Kiwi",
+          "Price": "600",
+          "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0ldxcNoF34BRrO8zaBM7S4mcjRIXV3VF0gw&s",
+          "Details": "bbdcvhg nbsdc nmbds jbdsj",
+          "qty": 1
+        },
+        {
+          "id": "1ca0",
+          "Name": "Banana",
+          "Price": "170",
+          "Image": "https://thumbs.dreamstime.com/b/banana-12219765.jpg?w=768",
+          "Details": "fdkjfkjd fl;glg",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "id": "d7e9",
+      "customer": "Alice",
+      "mobile": "123654",
+      "address": "abc, ertgglf, jkfhf",
+      "userid": "8888888",
+      "orderitem": [
+        {
+          "id": "f034",
+          "Name": "onion",
+          "Price": "50",
+          "Image": "https://5.imimg.com/data5/ANDROID/Default/2021/3/GP/VO/XV/125443919/screenshot-20210320-183611-jpg-500x500.jpg",
+          "Details": "it is a good onion",
+          "qty": 1
+        },
+        {
+          "id": "e68e",
+          "Name": "watermelon",
+          "Price": "150",
+          "Image": "https://thumbs.dreamstime.com/b/whole-watermelon-slice-white-background-as-package-design-element-45127224.jpg?w=768",
+          "Details": "dhhgs fjjdhfjjkd",
+          "qty": 1
+        },
+        {
+          "id": "9db9",
+          "Name": "Grapes",
+          "Price": "250",
+          "Image": "https://thumbs.dreamstime.com/b/grapes-22722160.jpg?w=768",
+          "Details": "fkjdgj gjlfg",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "id": "e29b",
+      "customer": "Tom",
+      "mobile": "12345236",
+      "address": "abc, fghjkkl, comjkj",
+      "userid": "8888888",
+      "orderitem": [
+        {
+          "id": "b394",
+          "Name": "Brinjal",
+          "Price": "55",
+          "Image": "https://thumbs.dreamstime.com/b/closeup-background-brooms-made-grass-baguio-philippines-colourful-background-119703333.jpg?w=768",
+          "Details": "hfdhd jhkdgkj",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "id": "b0bb",
+      "customer": "Jack",
+      "mobile": "1212121212",
+      "address": "jhij iuttd fgjhhi jkjjl;klkl;l",
+      "userid": "8888888",
+      "orderitem": [
+        {
+          "id": "f034",
+          "Name": "onion",
+          "Price": "50",
+          "Image": "https://5.imimg.com/data5/ANDROID/Default/2021/3/GP/VO/XV/125443919/screenshot-20210320-183611-jpg-500x500.jpg",
+          "Details": "it is a good onion",
+          "qty": 2
+        },
+        {
+          "id": "e6d6",
+          "Name": "Kiwi",
+          "Price": "600",
+          "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0ldxcNoF34BRrO8zaBM7S4mcjRIXV3VF0gw&s",
+          "Details": "bbdcvhg nbsdc nmbds jbdsj",
+          "qty": 3
+        }
+      ]
+    },
+    {
+      "id": "d184",
+      "customer": "Jerry",
+      "mobile": "1212121212",
+      "address": "jerry homesdkksf kfkfkj",
+      "userid": "3209",
+      "orderitem": [
+        {
+          "id": "f034",
+          "Name": "onion",
+          "Price": "50",
+          "Image": "https://5.imimg.com/data5/ANDROID/Default/2021/3/GP/VO/XV/125443919/screenshot-20210320-183611-jpg-500x500.jpg",
+          "Details": "it is a good onion",
+          "qty": 1
+        },
+        {
+          "id": "b394",
+          "Name": "Brinjal",
+          "Price": "55",
+          "Image": "https://thumbs.dreamstime.com/b/closeup-background-brooms-made-grass-baguio-philippines-colourful-background-119703333.jpg?w=768",
+          "Details": "hfdhd jhkdgkj",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "id": "ff94",
+      "customer": "Viji",
+      "mobile": "2222222222",
+      "address": "bdfjkjf kfjkljdfjj gkjkljlkgkl",
+      "userid": "a0c7",
+      "orderitem": [
+        {
+          "id": "f034",
+          "Name": "onion",
+          "Price": "50",
+          "Image": "https://5.imimg.com/data5/ANDROID/Default/2021/3/GP/VO/XV/125443919/screenshot-20210320-183611-jpg-500x500.jpg",
+          "Details": "it is a good onion",
+          "qty": 1
+        },
+        {
+          "id": "0354",
+          "Name": "water bottel",
+          "Price": "250",
+          "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFjSXM0UZ_nS49GuzDPnIcDz8hT4FJ90zhEw&s",
+          "Details": "jhujfhuv  w8u8o osii",
+          "qty": 1
+        },
+        {
+          "id": "9db9",
+          "Name": "Grapes",
+          "Price": "250",
+          "Image": "https://thumbs.dreamstime.com/b/grapes-22722160.jpg?w=768",
+          "Details": "fkjdgj gjlfg",
+          "qty": 1
+        }
+      ]
+    }
+  ]
+}
